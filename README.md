@@ -23,3 +23,6 @@ Hi, I’m Jamy Rahman! I’m a software engineer with a Master’s in Computer E
 <br />
 
 #
+### 📊 
+
+![Jamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamy11&show_icons=true&theme=shadow_red)
